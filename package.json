@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "./dist/index.html",
-  "homepage": "https://vamusmart.github.io/PortfolioNewStyle",
+  "homepage": "https://vamusmart.github.io/PortfolioNewStyle/dist/index.html",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
   "author": "Valentino Murgia",
-  "license": "MIT",
+  "license": "M.I.T.",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.2"
