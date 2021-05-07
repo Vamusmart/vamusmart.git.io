@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "/assets/index.html",
-  "homepage": "https://vamusmart.github.io/PortfolioNewStyle/assets/index.html",
+  "homepage": "https://vamusmart.github.io/assets/index.html",
   "scripts": {
     "sass": "node-sass -w scss/ -o assets/css/ --recursive",
     "deploy": "gh-pages -d assets"
