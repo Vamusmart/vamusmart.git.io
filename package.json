@@ -2,7 +2,7 @@
   "name": "modern_portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "main": "/PortfolioNewStyle/dist/index.html",
+  "main": "/dist/index.html",
   "homepage": "https://vamusmart.github.io/PortfolioNewStyle/dist/index.html",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
